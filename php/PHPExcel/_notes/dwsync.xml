@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Autoloader.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="CachedObjectStorageFactory.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="Calculation.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="Cell.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="Chart.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="Comment.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="DocumentProperties.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="DocumentSecurity.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="Exception.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="HashTable.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339215800000000" />
+<file name="IComparable.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="IOFactory.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="NamedRange.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="ReferenceHelper.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="RichText.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="Settings.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339216400000000" />
+<file name="Style.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Worksheet.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="WorksheetIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Autoloader.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="CachedObjectStorageFactory.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="Calculation.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="Cell.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="Chart.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="Comment.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="DocumentProperties.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="DocumentSecurity.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="Exception.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="HashTable.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="IComparable.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="IOFactory.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="NamedRange.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478731600000000" />
+<file name="ReferenceHelper.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="RichText.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Settings.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Style.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Worksheet.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="WorksheetIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+</dwsync>

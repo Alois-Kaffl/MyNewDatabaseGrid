@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutoFilter.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="BaseDrawing.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="CellIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Column.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="ColumnCellIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="ColumnDimension.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="ColumnIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Dimension.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Drawing.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="HeaderFooter.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="HeaderFooterDrawing.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="MemoryDrawing.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="PageMargins.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="PageSetup.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Protection.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="Row.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="RowCellIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="RowDimension.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="RowIterator.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="SheetView.php" server="kaffl.org/www.kaffl.org/" local="131328562800000000" remote="131339217000000000" />
+<file name="AutoFilter.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="BaseDrawing.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="CellIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Column.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="ColumnCellIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="ColumnDimension.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="ColumnIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Dimension.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Drawing.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="HeaderFooter.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="HeaderFooterDrawing.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="MemoryDrawing.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="PageMargins.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="PageSetup.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Protection.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="Row.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="RowCellIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="RowDimension.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="RowIterator.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+<file name="SheetView.php" server="www.kaffl.org/www.kaffl.org/" local="131328562800000000" remote="132478732200000000" />
+</dwsync>

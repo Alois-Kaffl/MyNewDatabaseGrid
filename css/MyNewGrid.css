@@ -1,0 +1,239 @@
+@charset "utf-8";
+/* CSS Document */
+document {
+	line-height:12px;
+}
+input.zentr {
+	text-align: center;
+}
+input.right {
+	text-align: right;
+}
+table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #000000;
+	background-color: #FFFFFF;
+	border-collapse: collapse;
+	text-align: center;
+	font-weight: bold;
+}
+.fiMsg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color: #000000;
+}
+.noData {
+	text-align:center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	border: thin solid #CBCBCB;
+	color:blue;
+}
+.fiSelected {
+	background-color: yellow;
+}
+.title-box {
+	font-size: 14px;
+	font-weight:bold;
+	border: thin solid #CBCBCB;
+	cursor:default;
+	text-align:center;
+	color:#000000;
+	background-color:#CCFFFF;
+	height: 24px;
+}
+.headerID {
+	font-size: 14px;
+	font-weight:bold;
+	background-color:#CFF;
+	border: thin solid #CBCBCB;
+	cursor:default;
+	text-align:center;
+	overflow:hidden !important;
+}
+.header {
+	font-size: 14px;
+	font-weight:bold;
+	background-color:#F4EBF5;
+	border: thin solid #CBCBCB;
+	cursor:pointer;
+	text-align:left;
+}
+.headerAction {
+	font-size: 14px;
+	font-weight:bold;
+	background-color:#FCDCDC;
+	border: thin solid #CBCBCB;
+	cursor:default;
+	text-align:center;
+}
+.editbox, .newbox {
+	border: 1px solid;
+	width:100%;
+	height:100%;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.filterrow {
+	height:14px;
+}
+.filterbox {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:10px;
+	padding:0px;
+	border: 0px none;
+	width:100%;
+	height:100%
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.filtertxt {
+	border: thin solid #CBCBCB;
+	line-height:12px;
+	height:19px
+	padding:0px;
+}
+.filtersel {
+	border: 0px none;
+	width: 100%;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.filterdat {
+	text-align:center;
+	border: 0px none;
+	width: 100%;
+	-moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.filteropt {
+	border: thin solid #CBCBCB;
+	line-height:12px;
+	height:16px;
+	padding:0px;
+}
+.AktFiBox {
+	padding:0px;
+	height:16px;
+	border: thin solid #CBCBCB;
+	background-color: rgb(228,255,193); /*#CF0;*/
+	text-align:center;
+}
+.dataRow {
+	border: thin solid #CBCBCB;
+	padding:2px;
+}
+.dataRowNL {
+	border: thin solid #CBCBCB;
+	margin:0px;
+	padding:0px;
+}
+.myGridTitlebox {
+  font-family:Verdana,Geneva,sans-serif;
+  font-size: 14px;
+  font-weight:bold;
+  background-color:#CCFFFF;
+  border: thin solid #CBCBCB;
+  cursor:default;
+  text-align:center;
+}
+.myGridOddRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#FBFCFA;
+  color:#000000;
+}
+.myGridActionRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#FCFCE1;
+  color:#000000;
+}
+.myGridActionRowHL {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#FF9;
+  color:#000000;
+}
+.myGridEvenRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#EFF;
+  color:#000000;
+}
+.myGridHighLightRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#FADCFA;
+  color:#000000;
+}
+.myGridSumRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:700;
+  font-size:12px;
+  line-height:12px;
+  background-color:#B8F5F5;
+  color:#000000;
+}
+.myGridActionSumRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#D4F1FA;
+  color:#000000;
+}
+.myGridNaviRow {
+	font-family:Verdana,Geneva,sans-serif;
+	border: thin solid #CBCBCB;
+	font-weight:bold;
+	font-size:14px;
+	line-height:14px;
+	background-color:#EDEDED;
+	color:#000000;
+}
+.myGridActionNaviRow {
+  font-family:Verdana,Geneva,sans-serif;
+  border: thin solid #CBCBCB;
+  font-weight:400;
+  font-size:12px;
+  line-height:12px;
+  background-color:#F7DDD1;
+  color:#000000;
+}
+.divtxt {
+	border:hidden;
+	margin-top:2px;
+}
+/* Put CSS-Text from ColorMaker after this Line*/
